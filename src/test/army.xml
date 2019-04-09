@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<army>
+   <zrk name="Buk">
+      <strikingForce>12</strikingForce>
+      <strikingDistance>1500</strikingDistance>
+      <productionStart>1979</productionStart>
+      <temp>15</temp>
+      <heightAffectedArea>25</heightAffectedArea>
+      <airDefenceCommonSoldiers>
+         <airDefenceCommonSoldier age="25">
+            <name>Petr</name>
+            <experience>25</experience>
+            <health>100</health>
+            <education>BSU</education>
+         </airDefenceCommonSoldier>
+         <airDefenceCommonSoldier age="26">
+            <name>Petr</name>
+            <experience>26</experience>
+            <health>100</health>
+            <education>BSU</education>
+         </airDefenceCommonSoldier>
+         <airDefenceCommonSoldier age="27">
+            <name>Petr</name>
+            <experience>27</experience>
+            <health>100</health>
+            <education>BSU</education>
+         </airDefenceCommonSoldier>
+      </airDefenceCommonSoldiers>
+      <airDefenceOfficers>
+         <airDefenceOfficer age="28">
+            <name>Petr</name>
+            <experience>28</experience>
+            <health>100</health>
+            <education>BSU</education>
+            <submissionNumber>5</submissionNumber>
+         </airDefenceOfficer>
+         <airDefenceOfficer age="29">
+            <name>Petr</name>
+            <experience>29</experience>
+            <health>100</health>
+            <education>BSU</education>
+            <submissionNumber>6</submissionNumber>
+         </airDefenceOfficer>
+         <airDefenceOfficer age="30">
+            <name>Petr0000</name>
+            <experience>35</experience>
+            <health>100</health>
+            <education>BSU</education>
+            <submissionNumber>7</submissionNumber>
+         </airDefenceOfficer>
+      </airDefenceOfficers>
+   </zrk>
+   <plane name="Mig-29">
+      <strikingForce>12</strikingForce>
+      <strikingDistance>2000</strikingDistance>
+      <productionStart>1989</productionStart>
+      <maxSpeed>200</maxSpeed>
+      <flightDuration>300</flightDuration>
+      <takeoffWeight>15</takeoffWeight>
+      <airForceCommonSoldiers>
+         <airForceCommonSoldier age="29">
+            <name>Petr</name>
+            <experience>25</experience>
+            <health>100</health>
+            <speedReaction>25</speedReaction>
+         </airForceCommonSoldier>
+         <airForceCommonSoldier age="29">
+            <name>Petr</name>
+            <experience>25</experience>
+            <health>100</health>
+            <speedReaction>25</speedReaction>
+         </airForceCommonSoldier>
+      </airForceCommonSoldiers>
+      <airForceOfficers>
+         <airForceOfficer age="29">
+            <name>Petr</name>
+            <experience>25</experience>
+            <health>100</health>
+            <speedReaction>25</speedReaction>
+            <submissionNumber>1</submissionNumber>
+         </airForceOfficer>
+      </airForceOfficers>
+   </plane>
+   <tank name="T-72">
+      <strikingForce>25</strikingForce>
+      <strikingDistance>1200</strikingDistance>
+      <productionStart>1974</productionStart>
+      <caliber>5</caliber>
+      <armerType>armer</armerType>
+      <sightType>sight</sightType>
+      <tankCommonSoldiers>
+         <tankCommonSoldier age="29">
+            <name>Petr</name>
+            <experience>25</experience>
+            <health>100</health>
+            <height>185</height>
+         </tankCommonSoldier>
+      </tankCommonSoldiers>
+      <tankOfficers>
+         <tankOfficer age="29">
+            <name>Petr</name>
+            <experience>25</experience>
+            <health>100</health>
+            <height>185</height>
+            <submissionNumber>2</submissionNumber>
+         </tankOfficer>
+      </tankOfficers>
+   </tank>
+</army>
